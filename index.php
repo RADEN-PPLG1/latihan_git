@@ -1,3 +1,4 @@
 <?php
-    echo"jamalllll"
+    echo"jamalllll";
+    echo"koki";
 ?>
